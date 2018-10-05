@@ -2,8 +2,8 @@
 参考了别人的代码之后，然后自己动手完成的一个小商城
 具体毕业时间将会是 2019年 6月份
 
-###  客户端启用
+###  Compiles and hot-reloads for development
 npm run serve
 
-### 服务端启用
+### Server-on /myproduct/
 node ./bin/www
