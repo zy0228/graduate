@@ -7,3 +7,5 @@ npm run serve
 
 ### Server-on /myproduct/
 node ./bin/www
+
+<img src="./resource/2018-10-06_010918.png">
